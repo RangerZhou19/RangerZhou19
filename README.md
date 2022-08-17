@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RangerZhou19
 - 👀 I’m interested in Few-shot learning, Medical image analysis
-- 🌱 I’m currently learning Few-shot learning based image analysis algorithms and generative AI models
+- 🌱 I’m currently learning Few-shot learning based image analysis algorithms and generalized AI models
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
